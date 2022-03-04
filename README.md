@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godhuli-De
 - 👀 I’m interested in  Machine learning, AI, Data Mining, Interactive Applications...
 - 🌱 I’m currently learning Front End Development...
-- 💞️ I’m looking to collaborate on innovative projects involving
+- 💞️ I’m looking to collaborate on innovative projects to ease daily life activities.
 - 📫 How to reach me ...@godhulide@outlook.com
 -    SPREAD LOVE NOT WAR ! PEACE
 <!---
