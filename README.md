@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Godhuli-De
 - 🌱 I’m currently pursuing MS in CS @ NYIT, New York.
-- - 👀 I’m interested in  Machine learning, AI, Data Science & Web Application Development.
-- 💞️ I’m looking to collaborate on innovative projects to ease daily life activities.
+- 👀 I’m enthusiastic in  Machine learning, AI, Data Science & Web Application Development.
 - 📫 Reach me : godhulideofficial@gmail.com || https://www.kaggle.com/godhulid
 - ✅ I am committed to create a growing learning culture for all, let's make Coding Fun for everyone.😊
 <!---
